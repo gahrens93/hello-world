@@ -1,0 +1,6 @@
+echo "# s1-201718-gahrens93" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/uva-cw-digitalanalytics/s1-201718-gahrens93.git
+git push -u origin master
